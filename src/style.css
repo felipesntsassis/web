@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat/Montserrat-Light.ttf') format('ttf')
+        url('./fonts/Montserrat/Montserrat-Medium.ttf') format('ttf'),
+        url('./fonts/Montserrat/Montserrat-Black.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    font-family: 'Montserrat';
+    color: #E74C3C;
+    background-image: url('./icon.png');
+}
